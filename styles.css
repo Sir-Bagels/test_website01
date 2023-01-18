@@ -73,9 +73,12 @@
     color: black;
     font-weight: bolder;
     margin-right: 100px;
+    border: solid black;
+    border-width: 3px;
 
 }
 .button:hover{
     background-color: black;
     color: yellow;
+    
 }
